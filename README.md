@@ -1,4 +1,4 @@
 # Demo-repo
 demo repository
 <br>
-Author -Tarun
+Author -Tarun(alpha knowledge)
